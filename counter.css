@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-image: url("train.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+button {
+    margin: 1em;
+    width: 20%;
+    border-radius: 50%;
+    border: 0.5 rem;
+    border-color: black;
+    color: pink;
+    background-color: blueviolet;
+}
